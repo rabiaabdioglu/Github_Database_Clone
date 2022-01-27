@@ -33,7 +33,7 @@ SET default_tablespace = '';
 SET default_table_access_method = heap;
 
 --
--- Name: app_categories; Type: TABLE; Schema: public; Owner: postgres
+-- Name: app_categories; Type: TABLE; Schema: public; Owner: postgre
 --
 
 CREATE TABLE public.app_categories (
